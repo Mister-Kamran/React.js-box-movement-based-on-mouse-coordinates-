@@ -1,1 +1,1 @@
-# React.js-box-movement-based-on-mouse-coordinates-
+Example of box movement based on mouse coordinates with React.js
